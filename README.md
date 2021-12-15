@@ -12,6 +12,10 @@ This is a guide to build a CO2 sensor for classrooms and other uses. The schemat
 
 > The schematic includes an Arduino Uno, a breadboard, a CO2 sensor, an SD card reader/writer, and a real-time-clock (RTC).
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66896884/146075532-d8b1cf18-bb45-4868-a4f8-55ef15e9edb3.jpg" alt="Henry's custom image", width="200" height="300"/>
+</p>
+
 ## License
 
 Feel free to use this project for personal and commercial projects.

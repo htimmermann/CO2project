@@ -1,5 +1,16 @@
-matplotlib.pyplot 
-numpy
-collections (Counter)
-time
-Python 3 
+##Python Libraries:
+
+- matplotlib.pyplot 
+- numpy
+- collections (Counter)
+- time
+- Python 3 
+
+##Links to purchase:
+
+- Arduino Uno: (https://store.arduino.cc/products/arduino-uno-rev3/)
+- Breadboard: (https://www.adafruit.com/product/64)
+- CO2 sensor: (https://www.sparkfun.com/products/15112) 
+- SD card reader/writer: (https://www.adafruit.com/product/254)
+- Real-time-clock (RTC): (https://www.amazon.com/AT24C32-Replace-Arduino-Batteries-Included/dp/B07Q7NZTQS/ref=sr_1_3?keywords=DS3231&qid=1640416408&sr=8-3)
+- M-M wires: (https://www.adafruit.com/product/758)

@@ -6,6 +6,14 @@
 - time
 - Python 3 
 
+ARDUINO LIBRAIES:
+
+- LCDIC2.h
+- Wire.h
+- SparkFun_SCD30_Arduino_Library.h
+- SD.h
+- DS1307RTC.h
+
 Links to purchase:
 
 - Arduino Uno: (https://store.arduino.cc/products/arduino-uno-rev3/)

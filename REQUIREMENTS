@@ -1,12 +1,11 @@
- Python Libraries:
+ PYTHON 3 LIBRARIES:
 
 - matplotlib.pyplot 
 - numpy
 - collections (Counter)
 - time
-- Python 3 
 
-ARDUINO LIBRAIES:
+ARDUINO LIBRARIES:
 
 - LCDIC2.h
 - Wire.h
@@ -14,7 +13,7 @@ ARDUINO LIBRAIES:
 - SD.h
 - DS1307RTC.h
 
-Links to purchase:
+LINKS TO PURCHASE HARDWARE:
 
 - Arduino Uno: (https://store.arduino.cc/products/arduino-uno-rev3/)
 - Breadboard: (https://www.adafruit.com/product/64)
